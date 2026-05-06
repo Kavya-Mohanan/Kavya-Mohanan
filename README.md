@@ -5,6 +5,6 @@
 -  CTF player in hackthe box and picoCTF
 
 
-<------------------IN HERE IM TALKING ABOUT CTF's , CYBER SECURITY, DIGITAL FORENCIS RELATED TOPICS--------------->
+<------------------IN HERE IM TALKING ABOUT CYBER SECURITY, THREAT HUNTING , DETECTION ENGINEERING --------------->
 
 
