@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavya-Mohanan
 - 👀 I’m interested in cyber security and digital forensics
-- 🌱 I’m currently pursuing bachelors degree on digital and cyber forensic science
+- 🌱 I’m currently working as Incident Response Analyst 
 -  Top 5% in TRYHACKME 
 -  CTF player in hackthe box and picoCTF
 
